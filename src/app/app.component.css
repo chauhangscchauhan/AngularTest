@@ -1,0 +1,45 @@
+.title{
+    font-size: 50px;
+    font-weight: 600;
+    color:black;
+    text-align: center;
+}
+
+.upper-box{
+    height: 200px;
+    width: 100%;
+    color: #fff;
+    background-color: purple;
+}
+.descDiv{
+    margin-top:4%;
+}
+.tagsDiv{
+    position: absolute;
+    bottom: 10px;
+}
+
+.lower-box{
+    height: 200px;
+    width: 100%;
+    color: #333;
+    background-color: #fff;
+    padding: 2% 7% 7% 6%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.feedImage{
+    height:200px;
+    width:100%;
+}
+.feedTitle{
+    color: #fff;
+    /* z-index: 2; */
+    top: 135px;
+    position: absolute;
+    left: 36px;
+    width: 80%;
+}
+.content-box{
+    margin-bottom: 5%;
+}
